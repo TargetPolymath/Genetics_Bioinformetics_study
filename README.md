@@ -23,4 +23,6 @@ Data Structures and Algorithms:
       - How to separate confident sequences
     - Assemblers in Practice
     - Python Demonstrations
-  
+
+Types of genome transformations:
+- [Overview of Structural Variation](https://www.ncbi.nlm.nih.gov/dbvar/content/overview/)
