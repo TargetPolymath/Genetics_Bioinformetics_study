@@ -28,7 +28,7 @@ Genome Transformations:
 - [NCBI - Overview of Structural Variation](https://www.ncbi.nlm.nih.gov/dbvar/content/overview/)
 
 Assembly, Callers, and Analysis Methods:
-- [Structural Variant Calling - the long and short of it] (https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1828-7)
+- [Structural Variant Calling - the long and short of it](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1828-7)
   - (Not finished reading)
   - Introduction to Structural Variants
   - Method Review and Performance
