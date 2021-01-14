@@ -25,4 +25,4 @@ Data Structures and Algorithms:
     - Python Demonstrations
 
 Types of genome transformations:
-- [Overview of Structural Variation](https://www.ncbi.nlm.nih.gov/dbvar/content/overview/)
+- [NCBI - Overview of Structural Variation](https://www.ncbi.nlm.nih.gov/dbvar/content/overview/)
